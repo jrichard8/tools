@@ -18,4 +18,3 @@ alias dvp='docker volume prune'
 alias dstopall='docker stop $(docker ps -a -q)'
 alias drmall='docker rm $(docker ps -a -q)'
 
-alias cqlsh='/etc/dse/bin/cqlsh'
